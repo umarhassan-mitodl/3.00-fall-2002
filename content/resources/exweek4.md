@@ -4,6 +4,8 @@ description: Example Problems for Week 4
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/f423e756ddb6e11bb41b966f4a38caca_exweek4.PDF
 file_size: 916180
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 'Lecture 31: Solution Thermodynamics'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/54fc8be464a3f16dd076766bd980ac67_lecture_31_oneside.PDF
 file_size: 218260
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

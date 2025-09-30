@@ -4,6 +4,8 @@ description: 'Lecture 23: Mathematics and Stability'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/53e4dbd940341f172fb10950e57eff29_lecture_23_oneside.PDF
 file_size: 118106
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

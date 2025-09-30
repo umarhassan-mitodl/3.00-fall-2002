@@ -4,6 +4,8 @@ description: 'Lecture 14: Heat Stored during Phase Changes'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/77107dfe89f42703e711abc463ae79e8_lecture_14_oneside.PDF
 file_size: 126943
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

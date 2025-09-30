@@ -5,6 +5,8 @@ description: This resource contains information related to equilibrium thermodyn
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/e1a03fddc391d548bb045355fa8f10a7_lecture_17_oneside.PDF
 file_size: 199112
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

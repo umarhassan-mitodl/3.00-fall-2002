@@ -4,6 +4,8 @@ description: 'Lecture 26: The Gibbs Phase Rule and its Application'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/df5d18e388b3d9e8d2ff6158cf35776c_lecture_26_oneside.PDF
 file_size: 123161
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

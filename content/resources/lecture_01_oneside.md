@@ -4,6 +4,8 @@ description: 'Lecture 1: Introduction and Course Description'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/1ee1b2498e59187b52269bacf107e374_lecture_01_oneside.PDF
 file_size: 90355
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

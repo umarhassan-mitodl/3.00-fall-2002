@@ -4,6 +4,8 @@ description: Problem Set 7 Solutions
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/72e2059068018620c8b6164e50dcc9c7_hw7_sol.PDF
 file_size: 42039
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

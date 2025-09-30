@@ -4,6 +4,8 @@ description: 'Lecture 22: Mathematical Relations and Changing Variables'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/d6a1b671852d33f1a91dbcfd378740c9_lecture_22_oneside.PDF
 file_size: 152275
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

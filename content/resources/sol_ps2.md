@@ -4,6 +4,8 @@ description: 'Assignments: Problem Set Solution 2'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/8852a55a2bb25938b11b751963a071bf_sol_ps2.PDF
 file_size: 68023
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

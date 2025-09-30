@@ -4,6 +4,8 @@ description: Recitation 2
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/7985e2f6cfb80b9a0cf7f1ded088ab3f_recitation2.PDF
 file_size: 74135
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

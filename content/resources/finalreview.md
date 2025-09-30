@@ -4,6 +4,8 @@ description: 'Recitations: Review [Final Review]'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/e05fd4a3c36aed470fd7779e53bdf5af_finalreview.PDF
 file_size: 92528
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 'Lecture 13: The Second Law'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/c6a83d3a2b042ad2d0cbc6888c687ced_lecture_13_oneside.PDF
 file_size: 116089
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 'Lecture 24: Implications of Equilibrium and Gibbs-Duhem'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/9e9ccbff64bd673f8ebb7734571b75cf_lecture_24_oneside.PDF
 file_size: 135171
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

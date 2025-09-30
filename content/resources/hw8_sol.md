@@ -4,6 +4,8 @@ description: Problem Set Solution 8
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/9c4c5697d29c74913ac58bb28c6af444_hw8_sol.PDF
 file_size: 76069
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

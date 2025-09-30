@@ -4,6 +4,8 @@ description: 'Lecture 4: State Variables and Functions'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/117bfb9da78477aa6a646bca60e32ff8_lecture_04_oneside.PDF
 file_size: 175843
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

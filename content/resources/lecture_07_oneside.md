@@ -4,6 +4,8 @@ description: 'Lecture 7: Properties of Materials'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/184f6f0bbb972ce1dc52f1914006f950_lecture_07_oneside.PDF
 file_size: 351035
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

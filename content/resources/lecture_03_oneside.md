@@ -4,6 +4,8 @@ description: 'Lecture 3: Thermodynamic Variables'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/0e64f29f90775957de6dc8f0d185f49b_lecture_03_oneside.PDF
 file_size: 142312
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

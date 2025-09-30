@@ -4,6 +4,8 @@ description: Example Problems for Week 6
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/a9d6cbba15383a88c2b18c7037fbb2e1_exweek6.PDF
 file_size: 877951
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

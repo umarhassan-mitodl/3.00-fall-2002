@@ -4,6 +4,8 @@ description: Example Problems for Week 13
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/b814c2ff74ff250fee6e9da064ce6b38_exweek13.PDF
 file_size: 2086473
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

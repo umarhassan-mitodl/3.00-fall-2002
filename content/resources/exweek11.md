@@ -4,6 +4,8 @@ description: Example Problems for Week 10
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/4fd54c8fd0ea1d3eb2c6540f6889a37a_exweek11.PDF
 file_size: 894230
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 'Lecture 18: Describing the State of an Alloy'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/d045f75621d792308300445a3412201f_lecture_18_oneside.PDF
 file_size: 150928
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

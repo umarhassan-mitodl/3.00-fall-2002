@@ -4,6 +4,8 @@ description: 'Lecture 20: The Chemical Potential'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/8791023a80525e69c7dfe17898cadaf5_lecture_20_oneside.PDF
 file_size: 247912
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

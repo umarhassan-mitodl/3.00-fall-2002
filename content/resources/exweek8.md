@@ -4,6 +4,8 @@ description: Example Problems for Week 8
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/3d94f02980798ea09cf6aba83288bb93_exweek8.PDF
 file_size: 940854
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

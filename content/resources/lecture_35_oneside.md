@@ -4,6 +4,8 @@ description: 'Lecture 35: Introduction to Surface Thermodynamics'
 file: /courses/3-00-thermodynamics-of-materials-fall-2002/3d825adc53ed70f81b16719b20e05f61_lecture_35_oneside.PDF
 file_size: 261027
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
